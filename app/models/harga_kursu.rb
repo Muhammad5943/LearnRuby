@@ -1,0 +1,2 @@
+class HargaKursu < ApplicationRecord
+end

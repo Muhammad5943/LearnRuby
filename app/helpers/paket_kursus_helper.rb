@@ -1,0 +1,2 @@
+module PaketKursusHelper
+end
